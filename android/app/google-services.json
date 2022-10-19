@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "267244385743",
+    "project_id": "iust-bus-tracking",
+    "storage_bucket": "iust-bus-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267244385743:android:e56bd676b84f1920cf8eba",
+        "android_client_info": {
+          "package_name": "com.example.iust_bus_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267244385743-8hhda4jjg54obd7c5ep9u3s2mpuutcu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3CgluJY-hMpQk4SazuzVv234LnAgpRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267244385743-8hhda4jjg54obd7c5ep9u3s2mpuutcu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267244385743-1dhmigj5vklc7sjdeg3jbk58f08ectb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iustBusTracking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
